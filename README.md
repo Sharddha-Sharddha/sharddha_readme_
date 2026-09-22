@@ -57,7 +57,6 @@ Building    Practical ML & backend projects
 ### Programming
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
 
 </td>
@@ -73,6 +72,12 @@ Building    Practical ML & backend projects
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
+</td>
+<td valign="top" width="33%">
+
+### Backend & Software
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GitHub](https://camo.githubusercontent.com/f1192e4d6223b82…76f3d676974687562266c6f676f436f6c6f723d7768697465)
 </td>
 <td valign="top" width="33%">
 
