@@ -52,7 +52,7 @@ Building    Practical ML & backend projects
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 ### Programming
 
@@ -60,7 +60,7 @@ Building    Practical ML & backend projects
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 ### Data & ML
 
@@ -73,7 +73,7 @@ Building    Practical ML & backend projects
 ![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 ### Backend & Software
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -81,7 +81,7 @@ Building    Practical ML & backend projects
 
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 ### Deep Learning & AI
 
