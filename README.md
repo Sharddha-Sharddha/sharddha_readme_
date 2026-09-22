@@ -77,7 +77,9 @@ Building    Practical ML & backend projects
 
 ### Backend & Software
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![GitHub](https://camo.githubusercontent.com/f1192e4d6223b82…76f3d676974687562266c6f676f436f6c6f723d7768697465)
+![GITHUB](https://camo.githubusercontent.com/f1192e4d6223b82b7ddf3182f69b59e40f1a5457b896ffc9a2cdd8915fcc15a4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465)
+
+
 </td>
 <td valign="top" width="33%">
 
